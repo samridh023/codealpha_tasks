@@ -16,3 +16,25 @@ To explore and analyze student performance data using Exploratory Data Analysis 
 
 ### Status
 ✅ Completed
+
+
+## Task 3: Data Visualization
+
+### Objective
+To visualize data using different plotting techniques and extract meaningful insights.
+
+### Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
+### Visualizations
+- Bar Chart
+- Line Chart
+- Histogram
+- Box Plot
+- Heatmap
+
+### Deliverable
+Jupyter Notebook containing visualizations and insights.
